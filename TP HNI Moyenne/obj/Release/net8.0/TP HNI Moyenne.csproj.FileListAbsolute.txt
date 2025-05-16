@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\bin\Release\net8.0\TP HNI Moyenne.exe
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\bin\Release\net8.0\TP HNI Moyenne.deps.json
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\bin\Release\net8.0\TP HNI Moyenne.runtimeconfig.json
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\bin\Release\net8.0\TP HNI Moyenne.dll
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\bin\Release\net8.0\TP HNI Moyenne.pdb
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.AssemblyInfo.cs
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.dll
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\refint\TP HNI Moyenne.dll
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.pdb
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\TP HNI Moyenne.genruntimeconfig.cache
+C:\Users\maxim\source\repos\TP HNI Moyenne\TP HNI Moyenne\obj\Release\net8.0\ref\TP HNI Moyenne.dll
