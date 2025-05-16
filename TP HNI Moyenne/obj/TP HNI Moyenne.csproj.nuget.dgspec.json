@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\Desktop\\repo\\TP HNI Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj": {}
+    "C:\\Users\\maxim\\Desktop\\repo\\TP_HNI_Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\Desktop\\repo\\TP HNI Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj": {
+    "C:\\Users\\maxim\\Desktop\\repo\\TP_HNI_Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\Desktop\\repo\\TP HNI Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\Desktop\\repo\\TP_HNI_Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj",
         "projectName": "TP HNI Moyenne",
-        "projectPath": "C:\\Users\\maxim\\Desktop\\repo\\TP HNI Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj",
+        "projectPath": "C:\\Users\\maxim\\Desktop\\repo\\TP_HNI_Moyenne\\TP HNI Moyenne\\TP HNI Moyenne.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\Desktop\\repo\\TP HNI Moyenne\\TP HNI Moyenne\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\Desktop\\repo\\TP_HNI_Moyenne\\TP HNI Moyenne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
